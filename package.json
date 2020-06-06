@@ -1,0 +1,12 @@
+{
+    "name": "Initial-test-1",
+    "description": "My first project",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flows_mogens-VirtualBox.json",
+            "credentialsFile": "flows_mogens-VirtualBox_cred.json"
+        }
+    }
+}
